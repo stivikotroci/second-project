@@ -1,0 +1,12 @@
+#counter {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
